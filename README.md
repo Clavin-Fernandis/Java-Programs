@@ -1,5 +1,7 @@
 lab 1 o/p : listdemo : https://github.com/Clavin-Fernandis/Java-Programs/blob/main/JAVALAB-01/OUTPUT/LISTDEMO.png
+
             p1       : https://github.com/Clavin-Fernandis/Java-Programs/blob/main/JAVALAB-01/OUTPUT/P1OP.png
+            
             p2       : https://github.com/Clavin-Fernandis/Java-Programs/blob/main/JAVALAB-01/OUTPUT/P2OP.png
             p3       : JAVALAB-01/OUTPUT/P3OP.png
             p4       : JAVALAB-01/OUTPUT/P4OP.png
