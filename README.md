@@ -29,4 +29,8 @@ lab 4 o/p : performance : JAVALAB-04/OUTPUT/PERFORMANCE.png
 lab 5 o/p : button      : JAVALAB-05/OUTPUT/BUTTON.png
           : imagebutton : JAVALAB-05/OUTPUT/IMAGEBUTTON.png
           : mouse       : JAVALAB-05/OUTPUT/MOUSE.png
-          : SWING       : JAVALAB-05/OUTPUT/SWING.png
+          : swing       : JAVALAB-05/OUTPUT/SWING.png
+lab 6 o/p : capital     : JAVALAB-06/OUTPUT/CAPITAL.png
+          : colourtab   : JAVALAB-06/OUTPUT/COLORTAB.png
+          : country     : JAVALAB-06/OUTPUT/COUNTRY.png
+          : tabbedpane  : JAVALAB-06/OUTPUT/TABBEDPANE.png
