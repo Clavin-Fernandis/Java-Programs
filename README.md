@@ -22,3 +22,5 @@ lab 2 o/p : mapdemo  : JAVALAB-02/OUTPUT/MAPDEMO.png
             p10      : JAVALAB-02/OUTPUT/P10OUTPUT.png
             p11      : JAVALAB-02/OUTPUT/P11OUTPUT.png
             p12      : JAVALAB-02/OUTPUT/P12OUTPUT.png
+lab 3 0/p : stringbuilding : JAVALAB-03/OUTPUT/STRINGBUILDING.png
+            stringdemo     : JAVALAB-03/OUTPUT/STRINGDEMO.png
