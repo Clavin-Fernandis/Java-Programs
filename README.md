@@ -26,3 +26,7 @@ lab 3 0/p : stringbuilding : JAVALAB-03/OUTPUT/STRINGBUILDING.png
             stringdemo     : JAVALAB-03/OUTPUT/STRINGDEMO.png
 lab 4 o/p : performance : JAVALAB-04/OUTPUT/PERFORMANCE.png
             string      : JAVALAB-04/OUTPUT/STRING.png
+lab 5 o/p : button      : JAVALAB-05/OUTPUT/BUTTON.png
+          : imagebutton : JAVALAB-05/OUTPUT/IMAGEBUTTON.png
+          : mouse       : JAVALAB-05/OUTPUT/MOUSE.png
+          : SWING       : JAVALAB-05/OUTPUT/SWING.png
