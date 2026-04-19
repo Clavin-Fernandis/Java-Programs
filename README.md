@@ -34,3 +34,20 @@ lab 6 o/p : capital     : JAVALAB-06/OUTPUT/CAPITAL.png
           : colourtab   : JAVALAB-06/OUTPUT/COLORTAB.png
           : country     : JAVALAB-06/OUTPUT/COUNTRY.png
           : tabbedpane  : JAVALAB-06/OUTPUT/TABBEDPANE.png
+lab 7a o/p : JAVALAB-07A/7A.png 
+lab 7b o/p : JAVALAB-07B/7BOP.png
+lab 7c o/p : JAVALAB-07C/7COP.png
+lab 8a o/p : JAVALAB-08A/8AOP.png
+lab 8b o/p : JAVALAB-08B/8BOP.png
+lab 9a o/p : JAVALAB-09A/9AOP.png
+lab 9b o/p : JAVALAB-09B/9BOP.png
+lab 9c o/p : JAVALAB-09C/9COP.png
+lab 10a o/p : JAVALAB-10A/10AOP.png
+lab 10b o/p : JAVALAB-10B/10BOP.png
+lab 11a o/p : JAVALAB-11A/11AOP.png
+lab 11b o/p : JAVALAB-11B/11BOP.png
+lab 11c o/p : JAVALAB-11C/11COP.png
+lab 12a o/p : JAVALAB-12A/12AOP.png
+lab 12b o/p : JAVALAB-12B/12BOP.png
+lab 12c o/p : JAVALAB-12C/12COP.png
+lab 12d o/p : JAVALAB-12D/12DOP.png
